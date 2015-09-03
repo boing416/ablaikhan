@@ -1,0 +1,93 @@
+#home {
+  background: url("../images/bg_big.png") center 0 no-repeat fixed;
+  background-size: cover;
+  margin: 0 auto;
+  width: 100%;
+  max-width: 1920px;
+  position: relative; }
+
+.pages {
+  margin: 0 auto;
+  width: 100%;
+  max-width: 1920px;
+  position: relative; }
+
+#about {
+  background: #008ed0 center 0 no-repeat fixed; }
+
+#about2 {
+  background: #dddddd center 0 no-repeat fixed; }
+
+#about3 {
+  background: #2ECC40 center 0 no-repeat fixed; }
+
+.top {
+  margin-top: 17px; }
+  .top img {
+    height: 60px;
+    margin-left: 70px;
+    float: left; }
+
+.top_left {
+  float: right;
+  display: inline-block; }
+  .top_left i {
+    font-size: 14px;
+    margin-left: 20px;
+    margin-right: 10px; }
+  .top_left span {
+    font-size: 14px;
+    text-transform: uppercase; }
+  .top_left .fa-search {
+    margin-right: 40px; }
+
+.top_menu {
+  width: 100%;
+  height: 100%;
+  background-color: #000000;
+  background: rgba(3, 3, 3, 0.9);
+  color: #ffffff;
+  text-align: center;
+  position: absolute;
+  display: none;
+  top: 0px; }
+  .top_menu ul {
+    margin-bottom: 35px; }
+    .top_menu ul li {
+      text-transform: uppercase;
+      font-family: "ObelixProRegular", san-serif;
+      font-size: 20px;
+      list-style-type: none;
+      line-height: 45px; }
+      .top_menu ul li a {
+        color: #ffffff; }
+  .top_menu a {
+    color: #9c9c9c; }
+  .top_menu .menu_line_1, .top_menu .menu_line_2 {
+    width: 400px; }
+    .top_menu .menu_line_1 img, .top_menu .menu_line_2 img {
+      margin-bottom: 13px;
+      margin-right: 5px; }
+  .top_menu .menu_line_1 {
+    margin-top: 35px; }
+  .top_menu .menu_line_2 a {
+    text-transform: uppercase; }
+  .top_menu .map_link {
+    margin-bottom: 35px;
+    color: #9c9c9c;
+    text-transform: uppercase; }
+  .top_menu .close, .top_menu .fa-times {
+    position: absolute;
+    right: 85px;
+    top: 40px;
+    color: white;
+    font-size: 31px; }
+  .top_menu .top_menu_footer {
+    position: fixed;
+    top: 70%;
+    left: 37%; }
+
+.list_menu_2 {
+  display: none; }
+
+/*# sourceMappingURL=style.css.map */

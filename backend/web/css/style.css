@@ -1,0 +1,15 @@
+.blocks {
+  margin-bottom: 50px; }
+  .blocks a {
+    color: white; }
+  .blocks .btn, .blocks .btn-lg, .blocks .btn-success {
+    width: 316px;
+    height: 300px;
+    padding-top: 120px;
+    border-radius: 10%; }
+
+#yii-debug-toolbar,
+#yii-debug-toolbar-min {
+  display: none; }
+
+/*# sourceMappingURL=style.css.map */
